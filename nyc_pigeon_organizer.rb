@@ -5,5 +5,4 @@ def nyc_pigeon_organizer(data)
     binding.pry
     final_array
 end
-end
 
