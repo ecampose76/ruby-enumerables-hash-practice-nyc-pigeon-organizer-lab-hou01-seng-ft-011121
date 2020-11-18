@@ -13,8 +13,7 @@ def nyc_pigeon_organizer(data)
         if !final_array[key]
             final_array[key] = {}
           end
-        if !final_array[inner_key]
-          final_array[inner_key] = 
+        if !final_array[name][key]
       end
     end
   end
